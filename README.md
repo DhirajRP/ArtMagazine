@@ -1,0 +1,2 @@
+# ArtMagazine
+ The idea for an Augmented reality app to present my artwork using this technology in such a way that people can find the procedural illustration of my artwork along with the artwork itself. I have tried to attach all my work in different mediums. Art was my favorite pastime later, it became my field of interest as I began to try painting in different mediums. Pencil Sketching is my favorite medium of all. Oil painting, Watercolor, digital e paintings, portraits, landscapes even Rangoli I have tried it in the past and keep doing
